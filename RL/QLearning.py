@@ -1,5 +1,5 @@
 import numpy as np
-from catch_MDP import *
+from MDP import *
 
 num_states = (num_row*num_col)**2
 num_episodes = 10000
