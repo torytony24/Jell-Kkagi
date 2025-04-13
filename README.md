@@ -11,7 +11,11 @@
 
 ## 📷 Demo
 
-> (Insert screenshots, GIFs, or short gameplay clips here to show what the game looks like.)
+> (TBA)
+
+## 🔍 Technical Details
+
+For a deeper look into the implementation (including pseudo-3D projection math, soft-body simulation, and Q-learning), refer to the [Jell-Kkagi.pdf](./Jell-Kkagi.pdf) presentation file.
 
 ## 🛠️ Installation
 
@@ -22,3 +26,14 @@ cd jell-kkagi
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+## ▶️ How to Run
+
+```bash
+# Run the game
+python main.py
+```
+
+
+
