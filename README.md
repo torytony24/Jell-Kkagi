@@ -4,6 +4,8 @@
 
 ## 🧩 Features
 
+![Image](https://github.com/user-attachments/assets/ca7da284-52c9-4f17-a0ea-747ada05ea7a)
+
 - **Pseudo 3D Visualization**: 2D rendering of a 3D world using custom perspective projection
 - **Soft-body Simulation**: Jelly-like flexible object with physics-based deformation and collisions
 - **Reinforcement Learning AI**: Q-learning based intelligent opponent
