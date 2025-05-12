@@ -1,6 +1,6 @@
 # 🫧 Jell-Kkagi
 
-**Jell-Kkagi** is a pseudo-3D mini game built with Pygame. It features **3D perspective projection**, **soft-body physics** and an AI opponent trained using **reinforcement learning(RL)**.
+**Jell-Kkagi** is a pseudo-3D mini game built with Pygame. It features **3D perspective projection**, **soft-body physics** and an AI opponent trained using **reinforcement learning(RL)**. It is a turn-based duel where players aim to push opponents off the stage.
 
 ## 🧩 Features
 
