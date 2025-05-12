@@ -11,7 +11,11 @@
 
 ## 🎮 Demo
 
-> (TBA)
+<img src="https://github.com/user-attachments/assets/e476b69d-46dd-482f-920b-b99399443b80" alt="home" width="50%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/21134f8b-7b4f-4fda-a095-02c6e4b52438" alt="board" width="50%" height="50%">
+
+<img src="https://github.com/user-attachments/assets/2605fe6f-a519-4d59-9e26-b8e28f1556c4" alt="play" width="50%" height="50%">
 
 ## 🔍 Technical Details
 
