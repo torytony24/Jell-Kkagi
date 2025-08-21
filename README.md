@@ -1,15 +1,15 @@
 # 🫧 Jell-Kkagi
 
-**Jell-Kkagi** is a pseudo-3D mini game built with Pygame. It features **3D perspective projection**, **soft-body physics** and an AI opponent trained using **reinforcement learning(RL)**. It is a turn-based duel where players aim to push opponents off the stage.
+**Jell-Kkagi** is a pseudo-3D mini game built with Pygame. It features **3D perspective projection**, **soft-body physics** and an AI opponent powered by **reinforcement learning(RL)**. Players can slide their jelly stone to knock the opponent’s jelly off the stage.
 
 ## 🧩 Features
 
 ![Image](https://github.com/user-attachments/assets/ca7da284-52c9-4f17-a0ea-747ada05ea7a)
 
-- **Pseudo 3D Visualization**: 2D rendering of a 3D world using custom perspective projection
-- **Soft-body Simulation**: Jelly-like flexible object with physics-based deformation and collisions
-- **Reinforcement Learning AI**: Q-learning based intelligent opponent
-- **User Interface**: Intuitive mouse-controlled gameplay using Pygame
+- **Pseudo-3D Visualization**: 2D rendering of a 3D environment using perspective projection
+- **Soft-body Simulation**: Jelly-like objects with physics-based deformation and collisions
+- **Reinforcement Learning AI**: An opponent powered by Q-learning
+- **User Interface**: Intuitive mouse-based gameplay using Pygame
 
 ## 🎮 Demo
 
@@ -21,7 +21,7 @@
 
 ## 🔍 Technical Details
 
-For a deeper look into the implementation (including pseudo-3D projection math, soft-body simulation, and Q-learning), refer to the [Jell-Kkagi.pdf](./Jell-Kkagi.pdf) presentation file.
+For a deeper look into the implementation (including pseudo-3D calculation, soft-body simulation, and Q-learning), refer to the [Jell-Kkagi.pdf](./Jell-Kkagi.pdf) presentation file.
 
 ## 🛠️ Installation
 
